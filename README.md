@@ -1,6 +1,8 @@
 # Tableau---Data-Visualization---Global-Food-Wastage
 Data Visualization on Global Food Wastage in Tableau
 
+Dataset: https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results/data
+
 This project aims to assess the magnitude of global food waste and its associated economic losses over recent years, and to generate data-driven insights that identify the relative impact of contributing factors and inform future policy priorities.
 
 The hypotheses guiding this project are as follows:
